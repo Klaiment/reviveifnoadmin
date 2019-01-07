@@ -8,8 +8,8 @@ command : /revive
 or 
 /revivea
 
-### Requirements :
-# esx_abulancejob
+# Requirements :
+### esx_ambulancejob (https://github.com/ESX-Org/esx_ambulancejob)
 
 ### SPHINX ! (RP NAME : CLEMENT ESKO)
 
